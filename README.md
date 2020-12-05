@@ -31,10 +31,10 @@
 
 ### Connect with me:
 [<img align="left" alt="Somanath  " width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Somanath   | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+
 [<img align="left" alt="Somanath   | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Somanath   | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="Somanath   | StackOverflow" width="22px" src="https://icons-for-free.com/iconfiles/png/512/stackoverflow-1321215626484539706.png" />][StackOverFlow]
+
 
 <br />
 

@@ -1,4 +1,4 @@
-### Hi there, I'm Justin -👋
+### Hi there, I'm Somanath -👋
 
 ## I'm a  Developer and Student!
 

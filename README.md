@@ -10,7 +10,7 @@
 - 🥅 2020 Goals: Learn as much as js
 - ⚡ Fun fact: I love to Code 
 
-<img align="center" height="150vh" width="350px" padding="20px" src="https://github-readme-stats.vercel.app/api?username=Justinnn07&show_icons=true&theme=radical"/>
+<img align="center" height="150vh" width="350px" padding="20px" src="https://github-readme-stats.vercel.app/api?username=somanath-goudar&show_icons=true&theme=radical"/>
 
 ### Languages and Tools:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />

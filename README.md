@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on MERN ECOMMERCE 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Learn as much as js
+- 🥅 2021 Goals: Learn as much as js
 - ⚡ Fun fact: I love to Code 
 
 <img align="center" height="150vh" width="350px" padding="20px" src="https://github-readme-stats.vercel.app/api?username=somanath-goudar&show_icons=true&theme=radical"/>

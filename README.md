@@ -1,6 +1,6 @@
 ### Hi there, I'm Somanath 👋
 
-## I'm a  Developer and Student!
+## I'm a  Developer, Youtuber and Blogger!
 
  <img src="https://komarev.com/ghpvc/?username=somanath-goudar" alt="" />
  

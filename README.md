@@ -4,11 +4,11 @@
 
  <img src="https://komarev.com/ghpvc/?username=somanath-goudar" alt="" />
  
-- 🔭 I’m currently working on MERN ECOMMERCE 
-- 🌱 I’m currently learning everything 🤣
+- 🔭 I’m currently doing Masters in Computer Science 
+- 🌱 I’m currently Working on my Youtube and my Blog
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Learn as much as js
-- ⚡ Fun fact: I love to Code 
+- 🥅 2022 Goals: Build my Dream Project ( Secret )
+- ⚡ Fun fact: I can code 18 Hours a Day without getting Bored 
 
 ![Somanath's github stats](https://github-readme-stats.vercel.app/api?username=somanath-goudar&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=somanath-goudar&layout=compact)
 
